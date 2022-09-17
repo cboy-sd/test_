@@ -1,0 +1,4 @@
+cat == "miaooo miaoo "
+dog == "woo wooo "
+ sheep  === "paaa paaa "
+ 
